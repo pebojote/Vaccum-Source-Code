@@ -1,14 +1,16 @@
 {
-  "name": "@workpebojot/vacuum-source-code",
+  "name": "@workpebojot/vaccum-source-code",
   "version": "0.9.14",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/workpebojot/Vacuum-Source-Code.git"
+    "url": "git://github.com/workpebojot/Vaccum-Source-Code.git"
   },
   "keywords": [],
   "author": "",
